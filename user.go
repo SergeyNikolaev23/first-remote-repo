@@ -1,1 +1,7 @@
-Some words to make this file modifile
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, World!")
+}
