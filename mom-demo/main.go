@@ -7,7 +7,7 @@ func main() {
 	mappedArray := filterNumbers(arr, func(x int) bool {
 		return x > 0
 	})
-	fmt.Println(mappedArray)
+	//fmt.Println(mappedArray)
 	fmt.Println(arr)
 	fmt.Println("Задача 1 ", mappedArray)
 
